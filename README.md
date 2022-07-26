@@ -1,4 +1,7 @@
 # Automação
 Script para instalação de ferramenta no Ubuntu, mas pode ser usada no Kali também.
 
-Obs: é para fins didaticos e para ajudar em alguns processos, podem conter erros. Aceito dicas! ^^
+Obs: é para fins didaticos e para ajudar em alguns processos, podem conter erros.
+
+
+# Ferramentas que contem no script
