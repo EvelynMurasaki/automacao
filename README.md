@@ -4,4 +4,3 @@ Script para instalação de ferramenta no Ubuntu, mas pode ser usada no Kali tam
 Obs: é para fins didaticos e para ajudar em alguns processos, podem conter erros.
 
 
-# Ferramentas que contem no script
