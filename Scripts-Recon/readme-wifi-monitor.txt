@@ -1,3 +1,6 @@
+o que o script faz: 
+A ideia do script é monitorar a rede wifi e sinalizar quando surgir uma rede nova.
+
 o que adicionar no script para deixar mais interessante:
 
 - colocar a opção quando apareceu ou fez scan pela primeira vez;
